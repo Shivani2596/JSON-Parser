@@ -1,0 +1,19 @@
+body {
+  margin: 20px;
+  font-family: 'Segoe UI'
+}
+
+table tr{
+  border: 1px solid black;
+}
+
+.table-header {
+  background-color: #ccc;
+  color: blue;
+  padding: 10px;
+  text-align: left;
+}
+
+.table-border{
+  border: 1px solid black;
+}

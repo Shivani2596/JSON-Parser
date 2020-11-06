@@ -1,0 +1,23 @@
+{
+    "nodeOne": "John Doe",
+    "nodeTwo": "05/06/2020",
+    "nodeThree": 777,
+    "nodeFour": [
+        {"elementOne": "B Street"},
+        {"elementTwo": "City"},
+        {"elementThree": "Area - 591323"},
+        {"elementFour": [
+            {"elementFive": "06/07/2020"},
+            {"elementSix": 123}
+        ]}
+    ],
+    "nodeFive": [
+        {"eleOne": "C Street"},
+        {"eleTwo": "City"},
+        {"eleThree": "Area - 591323"},
+        {"eleFour": [
+            {"eleFive": "06/07/2020"},
+            {"eleSix": 123}
+        ]}
+    ]
+}
